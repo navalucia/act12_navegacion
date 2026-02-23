@@ -6,12 +6,12 @@ Lenguaje Dart Flutter, nivel principiante, navegación entre 3 paginas utilizand
 A new Flutter project.
 
 ## Pantallas en web 
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="624" height="489" alt="image" src="https://github.com/user-attachments/assets/ea2717f1-8f77-4497-89b0-00dc8d68b0c5" />
+<img width="621" height="486" alt="image" src="https://github.com/user-attachments/assets/61ed342d-dfe8-4401-afbc-98db7f43c9ba" />
 <img width="598" height="789" alt="image" src="https://github.com/user-attachments/assets/9cf05e0a-7d39-47a9-af31-98041670bbe6" />
 
 
 ## 3 Pantallas en Android
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="276" height="472" alt="image" src="https://github.com/user-attachments/assets/81e1536e-e82a-457e-ba10-389eef5430aa" />
+<img width="273" height="473" alt="image" src="https://github.com/user-attachments/assets/5a88a03d-5ab0-47a2-860c-11705efe9577" />
+<img width="273" height="478" alt="image" src="https://github.com/user-attachments/assets/85baad81-805d-4b82-a871-40c866fc03d4" />
