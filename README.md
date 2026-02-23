@@ -8,7 +8,8 @@ A new Flutter project.
 ## Pantallas en web 
 ![alt text](image-3.png)
 ![alt text](image-4.png)
-![alt text](image-5.png)
+<img width="598" height="789" alt="image" src="https://github.com/user-attachments/assets/9cf05e0a-7d39-47a9-af31-98041670bbe6" />
+
 
 ## 3 Pantallas en Android
 ![alt text](image.png)
